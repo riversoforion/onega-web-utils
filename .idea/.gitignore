@@ -10,4 +10,5 @@
 /httpRequests/
 # Other ignored files
 go.imports.xml
+rust.xml
 misc.xml
